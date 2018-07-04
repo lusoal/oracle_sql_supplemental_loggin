@@ -1,0 +1,2 @@
+cx-Oracle==6.4
+SQLAlchemy==1.2.9
